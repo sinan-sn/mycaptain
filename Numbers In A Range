@@ -1,0 +1,4 @@
+list = [11, -20, -9, 19, -8]
+for num in list:
+    if num > 0:
+        print(num)
